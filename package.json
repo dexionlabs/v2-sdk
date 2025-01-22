@@ -23,8 +23,10 @@
   },
   "dependencies": {
     "@ethersproject/address": "^5.0.0",
+    "@ethersproject/bignumber": "^5.7.0",
     "@ethersproject/solidity": "^5.0.0",
     "@uniswap/sdk-core": "^4.0.7",
+    "jsbi": "^4.3.0",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },
